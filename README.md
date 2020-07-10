@@ -1,2 +1,2 @@
-# Python-Exercises. Exactly.
-# Python-Exercises
+# Python-Exercises.
+# Bunch of exercises!
